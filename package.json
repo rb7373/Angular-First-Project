@@ -1,0 +1,27 @@
+{
+  "name": "Angular-First-Project",
+  "version": "1.0.0",
+  "description": "AngularJS NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rb7373/Angular-First-Project.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "NodeJS"
+  ],
+  "author": "Ruben Abarca Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rb7373/Angular-First-Project/issues"
+  },
+  "homepage": "https://github.com/rb7373/Angular-First-Project",
+  "dependencies": {
+    "express": "^4.10.6",
+    "jade": "^1.8.2"
+  }
+}
