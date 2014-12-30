@@ -1,0 +1,22 @@
+{
+  "name": "Angular-First-Project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rb7373/Angular-First-Project",
+  "authors": [
+    "rb7373 <abarca.ruben73@gmail.com>"
+  ],
+  "description": "Angular Project",
+  "keywords": [
+    "AngularJS",
+    "NodeJS"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "toastr": "~2.1.0",
+    "angular": "~1.3.8",
+    "angular-resource": "~1.3.8",
+    "angular-route": "~1.3.8"
+  }
+}
