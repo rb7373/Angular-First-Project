@@ -1,2 +1,10 @@
-h1 This is a Partial
-h2 {{ myVar}}
+.container
+	.jumbotron
+		h1 FiX
+		p Bienvenido a FiX, la mejor aplicación para aprender Física
+
+	.raw
+		.col-md-6
+			div(ng-include="'/partials/modules'")
+		.col-md-6
+			div(ng-include="'/partials/newModules'")
